@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\company",
+    "\\src\\assets\\tech",
+    "\\src\\components",
+    "\\src\\constants",
+    "\\src\\hoc",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\App.jsx",
+  "PreviewInSolutionExplorer": false
+}

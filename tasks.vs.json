@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Threejs_3D_Portfolio",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Threejs_3D_Portfolio",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

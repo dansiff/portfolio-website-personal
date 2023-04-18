@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PendingCommit>
+  <CommitComment />
+  <WorkItems />
+  <PinnedBranches>
+    <PinnedBranch Name="refs/heads/main" />
+  </PinnedBranches>
+  <PublishPrompt Enabled="True" />
+  <RepositorySorts />
+</PendingCommit>
